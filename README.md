@@ -1,5 +1,6 @@
 # JOGO FEITO EM GML (Game Maker Language)
- Esse jogo foi feito na linguage do Game Maker.  
+ Esse é o meu primeiro jogo feito com o Game Maker.  
+ Esse jogo foi feito na linguagem do Game Maker. 
  Basicamente não tenho finalidade pra esse jogo apenas uso ele como forma de melhorar lógica da programação e orientação de objetos  
  As sprites que eu utilizei foi de sites aleatórios com sprites free.  
  
