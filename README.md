@@ -23,6 +23,6 @@
  
  # Jogo está incompleto
  O jogo funciona porém não tem nada de útil pra fazer no jogo, pois foquei mais na parte do código do jogo.  
- Eu nem seuqer tenho ideia do que fazer com esse jogo, mas caso você tiver utilize como base pro seu futuro jogo.  
+ Eu nem sequer tenho ideia do que fazer com esse jogo, mas caso você tiver utilize como base pro seu futuro jogo.  
  
  
