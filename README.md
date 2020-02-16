@@ -1,5 +1,6 @@
 # JOGO FEITO EM GML (Game Maker Language)
  Esse jogo foi feito na linguage do Game Maker.  
+ Basicamente não tenho finalidade pra esse jogo apenas uso ele como forma de melhorar lógica da programação e orientação de objetos  
  As sprites que eu utilizei foi de sites aleatórios com sprites free.  
  
  # 20/12/2019
@@ -15,7 +16,10 @@
  Adicionei diversas sprites, para poder utilizar futuramente como uma paleta de chão etc.  
  Link da engine do game maker: https://www.yoyogames.com/gamemaker  
  
- # 15/01 Jogo está com som, e faz barulho sempre que você bate em uma árvore.
+ # 15/01/2020
+ Voltei a mexer no jogo e adicionei um sistemazinho de som, que faz barulho sempre que você bate em uma árvore.
+ 
+ 
  
  # Jogo está incompleto
  O jogo funciona porém não tem nada de útil pra fazer no jogo, pois foquei mais na parte do código do jogo.  
