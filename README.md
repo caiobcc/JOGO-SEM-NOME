@@ -13,5 +13,10 @@
  Melhorei o sistema de colisão.  
  Criei um sistema de vida porém ainda está inutilizavel pois não tem inimigo.  
  Adicionei diversas sprites, para poder utilizar futuramente como uma paleta de chão etc.  
+ Link da engine do game maker: https://www.yoyogames.com/gamemaker  
+ 
+ # Jogo está incompleto
+ O jogo funciona porém não tem nada de útil pra fazer no jogo, pois foquei mais na parte do código do jogo.  
+ Eu nem seuqer tenho ideia do que fazer com esse jogo, mas caso você tiver utilize como base pro seu futuro jogo.  
  
  
